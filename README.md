@@ -1,6 +1,10 @@
 # Resume
-## K Mahesh Kumar
-### Education Qualification:
+## Details:
+* Name : K Mahesh Kumar
+* Emailid : maheshkumarr966@gmail.com
+* Mobile No. : +91 8498036867
+* Address : Anantapur
+## Education Qualification:
 ## Msc Electronics and communications
 * college : Sri Krishnadevaraya University
 * Year of pass : 2021
